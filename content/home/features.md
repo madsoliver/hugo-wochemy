@@ -5,9 +5,9 @@ weight: 20
 title: Features
 subtitle: ✨ Teach _anything_ with
 feature:
-  - icon: chalkboard-teacher
+  - icon: home
     icon_pack: fas
-    name: Slides
+    name: Gode adminsider
     description: 
   - icon: video
     icon_pack: fas
